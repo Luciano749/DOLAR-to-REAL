@@ -1,7 +1,3 @@
-// wow init
-AOS.init();
-
-// -------------------------------
 window.onload = () => {
   let result = document.getElementById("result");
 
